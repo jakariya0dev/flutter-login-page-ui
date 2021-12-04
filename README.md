@@ -1,7 +1,7 @@
 # flutter_login_ui
 
 A new Flutter Login Page UI project.
-<img src="assets/iamges/img.png"/>
+<img src="assets/images/img.png"/>
 
 ## Getting Started
 
